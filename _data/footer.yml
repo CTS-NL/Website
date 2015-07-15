@@ -1,4 +1,14 @@
 # Footer navigation links
 
-- title:
-  url:
+- title: Home
+  url: /
+- title: Calendar
+  url: /events/
+- title: Media
+  url: /media/
+- title: Resources
+  url: /resources/
+- title: Contact
+  url: /contact/
+- title: About
+  url: /about/
