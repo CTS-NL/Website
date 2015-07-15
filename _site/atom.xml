@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>NL Computer Technology Society</title>
+  <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.4.0</generator>
+    <icon>/apple-touch-icon-precomposed.png</icon>
+  <subtitle>We are a new group that is trying to create a community for anyone in Newfoundland and Labrador that works or has interest in computers and technology.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="/" rel="alternate" type="text/html"/>
+  <updated>2015-07-15T02:16:37-02:30</updated>
+  <id>/</id>
+  <author>
+    <name>CTS-NL</name>
+    <uri>/</uri>
+    <email>computer.tech.society.nl@gmail.com</email>
+  </author>
+
+  
+  <entry>
+    <title>Sample Post 2</title>
+    <link href="/articles/sample-post2/"/>
+    <updated>2015-07-15T00:00:00-02:30</updated>
+    <id>/articles/sample-post2</id>
+    <author>
+      <name>CTS-NL</name>
+      <uri>/</uri>
+      <email>computer.tech.society.nl@gmail.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;h1 id=&quot;photo-set-2&quot;&gt;Photo set 2&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/teaser.jpg&quot; alt=&quot;Alt&quot; title=&quot;logo&quot; /&gt;&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Sample Post</title>
+    <link href="/articles/sample-post/"/>
+    <updated>2015-07-15T00:00:00-02:30</updated>
+    <id>/articles/sample-post</id>
+    <author>
+      <name>CTS-NL</name>
+      <uri>/</uri>
+      <email>computer.tech.society.nl@gmail.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;h1 id=&quot;photo-set-1&quot;&gt;Photo set 1&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/logo.png&quot; alt=&quot;Alt&quot; title=&quot;logo&quot; /&gt;&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  
+</feed>
