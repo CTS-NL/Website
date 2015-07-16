@@ -14,4 +14,15 @@ ads: false
 
 This page is still a work in progress.
 
+##History
+
+##Goals
 We are a new group that is trying to create a community for anyone in Newfoundland and Labrador that works or has interest in computers and technology.
+
+##Mission Statement
+
+##Executive Members
+- Tim Oram
+- Mark Stacey
+- Mike Burton
+- Steve O'Keefe
