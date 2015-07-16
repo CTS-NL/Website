@@ -2,7 +2,7 @@
 layout: article
 title: "About Us"
 date: 2015-07-15
-modified:
+modified: 2015-07-19
 excerpt: "Learn about who we are and what we do."
 image:
     feature:

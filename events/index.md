@@ -2,7 +2,7 @@
 layout: article
 title: "Calendar"
 date: 2015-07-15
-modified:
+modified: 2015-07-19
 excerpt: "Check out our upcoming calendar of events."
 image:
     feature:
