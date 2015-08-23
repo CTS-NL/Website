@@ -1,8 +1,9 @@
 ---
 layout: article
 title: "Calendar"
+permalink: /events/
 date: 2015-07-15
-modified: 2015-07-19
+modified: 2015-08-21
 excerpt: "Check out our upcoming calendar of events."
 image:
     feature:
@@ -12,8 +13,8 @@ share: false
 ads: false
 ---
 
-<iframe src="https://www.google.com/calendar/embed?src=computer.tech.society.nl%40gmail.com&ctz=America/St_Johns" style="border: 0" width="500" height="350" frameborder="0" scrolling="no"></iframe>
-
+<iframe src="https://www.google.com/calendar/embed?src=computer.tech.society.nl%40gmail.com&ctz=America/St_Johns" style="border: 0" width="700" height="425" frameborder="0" scrolling="no"></iframe>
+<!--
 ##Events
 
 ###CTS-NL Events
@@ -35,4 +36,4 @@ ads: false
     **Topic:** (Mostly) Surviving Success  
     **Location:** Room EN-2043 of the Engineering building at MUN  
     
-Work in progress
+Work in progress-->

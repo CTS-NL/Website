@@ -3,12 +3,12 @@
 - title: Home
   url: /
 - title: Calendar
-  url: /events/
+  url: /events
 - title: Media
-  url: /media/
-- title: Resources
-  url: /resources/
+  url: /media
+# - title: Resources
+#   url: /resources
 - title: Contact
-  url: /contact/
+  url: /contact
 - title: About
-  url: /about/
+  url: /about

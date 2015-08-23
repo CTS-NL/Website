@@ -1,26 +1,26 @@
 # Site navigation links
     
 - title: Calendar & Events
-  url: /events/
+  url: /events
   excerpt: Check out our upcoming calendar of events.
   image:
     
 - title: Media
-  url: /media/
+  url: /media
   excerpt: View pictures and other media from our events.
   image:
     
-- title: Resources
-  url: /resources/
-  excerpt: Helpful resources of other local organizations and companies.
-  image:
+# - title: Resources
+#   url: /resources
+#   excerpt: Helpful resources of other local organizations and companies.
+#   image:
   
 - title: Contact Us
-  url: /contact/
+  url: /contact
   excerpt: How to get in contact with us.
   image:
   
 - title: About Us
-  url: /about/
+  url: /about
   excerpt: Learn about who we are and what we do.
   image:
