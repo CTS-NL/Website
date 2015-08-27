@@ -22,6 +22,7 @@ ads: false
 <div id="mc_embed_signup">
 <form action="//facebook.us9.list-manage.com/subscribe/post?u=f6c3b048ea2830ba9b366eb75&amp;id=9285f2d342" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
+    <h3>Join the Mailing List</h3>
 	<h6>If you'd like to be kept informed of Computer Technology Society of Newfoundland and Labrador events, please fill in your information below.</h6>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">

@@ -6,7 +6,7 @@ image:
     feature: feature.jpg
 ---
 
-This will be changed.
+<h3>Past Events</h3>
 
 <div class="tiles">
 {% for post in site.categories.media %}
